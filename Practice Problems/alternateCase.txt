@@ -1,0 +1,12 @@
+def alternate_case (sentence, start = 0):
+    result = ""
+    upper = True
+    for i in range(len(sentence)):
+        if i < start:
+            result = result + sentence[i]
+        elif upper:
+            result = result + sentence[i].upper()
+        else:
+            result = result + sentence[i].lower()
+        upper = not upper
+    return result

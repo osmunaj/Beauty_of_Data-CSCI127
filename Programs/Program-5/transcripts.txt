@@ -1,0 +1,251 @@
+Welcome to WORDLE!
+
+1. Enter your guess: plain
+
+	PLAIN
+	-----
+
+2. Enter your guess: broke
+
+	BROKE
+	bro-e
+
+3. Enter your guess: robes
+
+	ROBES
+	rOBEs
+
+4. Enter your guess: sober
+
+	SOBER
+	SOBER
+
+
+GREAT! You got it in  4 tries.
+
+###########################
+
+
+Welcome to WORDLE!
+
+1. Enter your guess: cat
+	Your word must have 5 letters.
+Valid 5 letter word: montana
+	Your word must have 5 letters.
+Valid 5 letter word: asdfg
+	ASDFG isn't in the list of valid words.
+Valid 5 letter word: least
+
+	LEAST
+	-e-s-
+
+2. Enter your guess: strep
+
+	STREP
+	S-rep
+
+3. Enter your guess: spers
+	SPERS isn't in the list of valid words.
+Valid 5 letter word: spare
+
+	SPARE
+	SP-RE
+
+4. Enter your guess: spore
+
+	SPORE
+	SPORE
+
+
+GREAT! You got it in  4 tries.
+
+
+###########################
+
+Welcome to WORDLE!
+
+1. Enter your guess: plays
+
+	PLAYS
+	--a-S
+
+2. Enter your guess: rakes
+
+	RAKES
+	-Ak-S
+
+3. Enter your guess: backs
+
+	BACKS
+	-ACKS
+
+4. Enter your guess: packs
+
+	PACKS
+	-ACKS
+
+5. Enter your guess: tacks
+
+	TACKS
+	-ACKS
+
+6. Enter your guess: ?
+	Psst. Answer is JACKS
+Enter your guess: jacks
+
+	JACKS
+	JACKS
+
+
+Phew! You got it on the last try!
+
+###########################
+
+Welcome to WORDLE!
+
+1. Enter your guess: blaze
+
+	BLAZE
+	--A--
+
+2. Enter your guess: clans
+
+	CLANS
+	--An-
+
+3. Enter your guess: shave
+
+	SHAVE
+	--A--
+
+4. Enter your guess: niave
+	NIAVE isn't in the list of valid words.
+Valid 5 letter word: brain
+
+	BRAIN
+	--AIN
+
+5. Enter your guess: plain
+
+	PLAIN
+	--AIN
+
+6. Enter your guess: drain
+
+	DRAIN
+	--AIN
+
+Game Over. Reveal answer? y/n: y
+Answer was TWAIN.
+
+###########################
+
+
+Welcome to WORDLE!
+
+1. Enter your guess: guess
+
+	GUESS
+	--ess
+
+2. Enter your guess: ?
+	Psst. Answer is SORER
+Enter your guess: !
+	Okay. Enter the new answer: plant
+	Answer set to PLANT
+Enter your guess: talks
+
+	TALKS
+	tal--
+
+3. Enter your guess: plate
+
+	PLATE
+	PLAt-
+
+4. Enter your guess: plant
+
+	PLANT
+	PLANT
+
+
+GREAT! You got it in  4 tries.
+
+###########################
+###########################
+
+Honors Section: Support guesses with 2 or more of the same letter
+
+###########################
+###########################
+
+
+Welcome to WORDLE!
+
+1. Enter your guess: claim
+
+	CLAIM
+	-lai-
+
+2. Enter your guess: liars
+
+	LIARS
+	lIa--
+
+3. Enter your guess: pilar
+	PILAR isn't in the list of valid words.
+Valid 5 letter word: milar
+	MILAR isn't in the list of valid words.
+Valid 5 letter word: rials
+
+	RIALS
+	-IaL-
+
+4. Enter your guess: villa
+
+	VILLA
+	VILLA
+
+
+GREAT! You got it in  4 tries.
+
+###########################
+
+Welcome to WORDLE!
+
+1. Enter your guess: ?
+	Psst. Answer is SMOGS
+Enter your guess: !
+	Okay. Enter the new answer: green
+	Answer set to GREEN
+Enter your guess: eerie
+
+	EERIE
+	-er-e
+
+2. Enter your guess: feels
+
+	FEELS
+	-eE--
+
+3. Enter your guess: spleen
+	Your word must have 5 letters.
+Valid 5 letter word: leech
+
+	LEECH
+	-eE--
+
+4. Enter your guess: creeds
+	Your word must have 5 letters.
+Valid 5 letter word: creed
+
+	CREED
+	-REE-
+
+5. Enter your guess: green
+
+	GREEN
+	GREEN
+
+
+GREAT! You got it in  5 tries.
